@@ -1,0 +1,4 @@
+Flask
+OpenCV-Python
+torch
+tensorflow
